@@ -1,13 +1,21 @@
-# config.py
+import logging
 
-# Specify the path to your text file with job page URLs
+# File paths
 file_path = 'job_pages_urls.txt'
-
-# Output file to store found job URLs
 jobs_output_file = 'matched_jobs.txt'
-
-# Error log file to store any errors encountered during fetching
 error_log_file = 'error_log.txt'
 
 # Keywords for the job search
 keywords = ['technical writer', 'content writer', 'writer']
+
+# Logging configuration
+def setup_logging(log_file='app.log'):
+    logging.basicConfig(
+        level=logging.INFO, 
+        format='%(asctime)s - %(levelname)s - %(message)s',
+        filename=log_file,
+        filemode='a'
+    )
+
+# Initialize logging
+setup_logging()
