@@ -25,6 +25,7 @@ def find_jobs(urls, jobs_output_file, keywords):
                     elif matched_jobs:
                         logging.info(f"Matching jobs found on {url}: {len(matched_jobs)} jobs")
                         for job in matched_jobs:
+                            logging.debug(f"Job found: {job}")
                             log_to_file(jobs_output_file, job)
                 except Exception as e:
                     logging.exception(f"Error processing {url}: {e}")

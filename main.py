@@ -17,4 +17,4 @@ clear_console()
 urls = read_urls_from_file(config.file_path)
 
 # Find jobs and log errors using configurations from config.py
-find_jobs(urls, config.jobs_output_file, config.error_log_file, config.keywords)
+find_jobs(urls, config.jobs_output_file, config.keywords)

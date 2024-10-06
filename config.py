@@ -3,7 +3,6 @@ import logging
 # File paths
 file_path = 'job_pages_urls.txt'
 jobs_output_file = 'matched_jobs.txt'
-error_log_file = 'error_log.txt'
 
 # Keywords for the job search
 keywords = ['technical writer', 'content writer', 'writer']
