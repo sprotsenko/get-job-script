@@ -1,256 +1,255 @@
 Error fetching jobs from https://6sense.com/about-us/careers/: 403 Client Error: Forbidden for url: https://6sense.com/about-us/careers/
 Error fetching jobs from https://wellfound.com/company/42/jobs: 403 Client Error: Forbidden for url: https://wellfound.com/company/42/jobs
 Error fetching jobs from https://wellfound.com/company/adaface/jobs: 403 Client Error: Forbidden for url: https://wellfound.com/company/adaface/jobs
-Error fetching jobs from https://www.17hats.com/careers: 404 Client Error: Not Found for url: https://www.17hats.com/careers
 Error fetching jobs from https://alamisharia.co.id/en/karir/kategori/: 403 Client Error: Forbidden for url: https://alamisharia.co.id/en/karir/kategori/
+Error fetching jobs from https://www.17hats.com/careers: 404 Client Error: Not Found for url: https://www.17hats.com/careers
 Error fetching jobs from https://www.airbase.com/careers: 403 Client Error: Forbidden for url: https://www.airbase.com/careers
-Error fetching jobs from https://boards.greenhouse.io/abovelending: 404 Client Error: Not Found for url: https://boards.greenhouse.io/abovelending
 Error fetching jobs from https://www.adhocteam.us/join/jobs/: 404 Client Error: Not Found for url: https://www.adhocteam.us/join/jobs/
+Error fetching jobs from https://boards.greenhouse.io/abovelending: 404 Client Error: Not Found for url: https://boards.greenhouse.io/abovelending
 Error fetching jobs from https://algorand.com/about/careers/our-jobs: 403 Client Error: Forbidden for url: https://algorandtechnologies.com/about/careers/our-jobs
-Error fetching jobs from https://www.alphasights.com/careers/open-roles/: 403 Client Error: Forbidden for url: https://www.alphasights.com/careers/open-roles/
 Error fetching jobs from https://1se.co/jobs: 404 Client Error: Not Found for url: https://1se.co/jobs
-Error fetching jobs from https://ark.io/careers: 404 Client Error: Not Found for url: https://ark.io/careers
+Error fetching jobs from https://www.alphasights.com/careers/open-roles/: 403 Client Error: Forbidden for url: https://www.alphasights.com/careers/open-roles/
 Error fetching jobs from https://www.animalz.co/join-us/: 403 Client Error: Forbidden for url: https://www.animalz.co/join-us/
+Error fetching jobs from https://ark.io/careers: 404 Client Error: Not Found for url: https://ark.io/careers
+Error fetching jobs from https://www.appstractor.com/careers/: 404 Client Error: Not Found for url: https://www.appstractor.com/careers/
 Error fetching jobs from https://90seconds.com/about/careers/: 403 Client Error: Forbidden for url: https://90seconds.com/about/careers/
 Error fetching jobs from https://www.axon.com/careers: HTTPSConnectionPool(host='www.axon.com', port=443): Max retries exceeded with url: /careers (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))
-Error fetching jobs from https://www.appstractor.com/careers/: 404 Client Error: Not Found for url: https://www.appstractor.com/careers/
-Error fetching jobs from https://www.axios.com/careers: 403 Client Error: Forbidden for url: https://www.axios.com/careers
 Error fetching jobs from https://jobs.bairesdev.com/: 403 Client Error: Forbidden for url: https://jobs.bairesdev.com/
+Error fetching jobs from https://www.axios.com/careers: 403 Client Error: Forbidden for url: https://www.axios.com/careers
 Error fetching jobs from https://bandcamp.com/jobs: 403 Client Error: Forbidden for url: https://bandcamp.com/jobs
-Error fetching jobs from https://artandlogic.com/careers/: 403 Client Error: Forbidden for url: https://artandlogic.com/careers/
 Error fetching jobs from https://jobs.lever.co/teamairship/: 404 Client Error: Not Found for url: https://jobs.lever.co/teamairship/
-Error fetching jobs from https://authoritypartners.com/careers/: 403 Client Error: Forbidden for url: https://authoritypartners.com/careers/
+Error fetching jobs from https://artandlogic.com/careers/: 403 Client Error: Forbidden for url: https://artandlogic.com/careers/
 Error fetching jobs from https://jobs.lever.co/alan: 404 Client Error: Not Found for url: https://jobs.lever.co/alan
+Error fetching jobs from https://authoritypartners.com/careers/: 403 Client Error: Forbidden for url: https://authoritypartners.com/careers/
 Error fetching jobs from https://bandzoogle.com/jobs: 403 Client Error: Forbidden for url: https://bandzoogle.com/jobs
 Error fetching jobs from https://www.bill.com/about-us/jobs: 403 Client Error: Forbidden for url: https://www.bill.com/about-us/jobs
 Error fetching jobs from https://bitzesty.com/careers/: 403 Client Error: Forbidden for url: https://bitzesty.com/careers/
-Error fetching jobs from https://www.bizinkonline.com/careers/: 404 Client Error: Not Found for url: https://www.bizinkonline.com/careers/
-Error fetching jobs from https://careers.vmware.com/careers-home/: HTTPSConnectionPool(host='careers.vmware.com', port=443): Max retries exceeded with url: /careers-home/ (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)')))
 Error fetching jobs from https://bbemarketing.com/careers/: 406 Client Error: Not Acceptable for url: https://bbemarketing.com/careers/
 Error fetching jobs from https://bluecatnetworks.com/careers/: 403 Client Error: Forbidden for url: https://bluecatnetworks.com/careers/
-Error fetching jobs from https://mobilejazz.com/careers/: HTTPSConnectionPool(host='mobilejazz.com', port=443): Max retries exceeded with url: /careers/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000201C563E510>: Failed to resolve 'mobilejazz.com' ([Errno 11001] getaddrinfo failed)"))
+Error fetching jobs from https://careers.vmware.com/careers-home/: HTTPSConnectionPool(host='careers.vmware.com', port=443): Max retries exceeded with url: /careers-home/ (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)')))
+Error fetching jobs from https://mobilejazz.com/careers/: HTTPSConnectionPool(host='mobilejazz.com', port=443): Max retries exceeded with url: /careers/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FE3EB5E5A0>: Failed to resolve 'mobilejazz.com' ([Errno 11001] getaddrinfo failed)"))
 Error fetching jobs from https://blanclabs.com/company/careers/: 403 Client Error: Forbidden for url: https://blanclabs.com/company/careers/
+Error fetching jobs from https://www.broadvoice.com/careers/: 403 Client Error: Forbidden for url: https://www.broadvoice.com/careers/
 Error fetching jobs from https://www.buchanan.com/careers/: 403 Client Error: Forbidden for url: https://www.buchanan.com/careers/
 Error fetching jobs from https://bezosacademy.org/open-roles/: 403 Client Error: Forbidden for url: https://bezosacademy.org/open-roles/
 Error fetching jobs from https://camunda.com/careers/: 403 Client Error: Forbidden for url: https://camunda.com/careers/
-Error fetching jobs from https://www.broadvoice.com/careers/: 403 Client Error: Forbidden for url: https://www.broadvoice.com/careers/
 Error fetching jobs from https://canvas.io/jobs: 403 Client Error: Forbidden for url: http://prod1canvasio.wpenginepowered.com/careers
+Error fetching jobs from https://www.bizinkonline.com/careers/: 404 Client Error: Not Found for url: https://www.bizinkonline.com/careers/
+Error fetching jobs from https://cere.network/careers/: 404 Client Error: Not Found for url: https://www.cere.network/careers
 Error fetching jobs from https://careers.chancelight.com/: 403 Client Error: Forbidden for url: https://careers.chancelight.com/
 Error fetching jobs from https://www.charthop.com/about-us/careers/jobs/: 404 Client Error: Not Found for url: https://www.charthop.com/about-us/careers/jobs
-Error fetching jobs from https://corporatecareers.clipboardhealth.com/: HTTPSConnectionPool(host='corporatecareers.clipboardhealth.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'corporatecareers.clipboardhealth.com'. (_ssl.c:1000)")))
-Error fetching jobs from https://cere.network/careers/: 404 Client Error: Not Found for url: https://www.cere.network/careers
-Error fetching jobs from https://channelfactory.com/about-us/: 403 Client Error: Forbidden for url: https://channelfactory.com/about-us/
 Error fetching jobs from https://jobs.forem.com/: HTTPSConnectionPool(host='jobs.forem.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)')))
-Error fetching jobs from https://www.coinbase.com/careers: 403 Client Error: Forbidden for url: https://www.coinbase.com/careers
 Error fetching jobs from https://codesandbox.io/careers: 403 Client Error: Forbidden for url: https://codesandbox.io/careers
 Error fetching jobs from https://coalitiontechnologies.com/jobs: 403 Client Error: Forbidden for url: https://coalitiontechnologies.com/jobs
+Error fetching jobs from https://channelfactory.com/about-us/: 403 Client Error: Forbidden for url: https://channelfactory.com/about-us/
+Error fetching jobs from https://www.coinbase.com/careers: 403 Client Error: Forbidden for url: https://www.coinbase.com/careers
+Error fetching jobs from https://corporatecareers.clipboardhealth.com/: HTTPSConnectionPool(host='corporatecareers.clipboardhealth.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'corporatecareers.clipboardhealth.com'. (_ssl.c:1000)")))
 Error fetching jobs from https://www.circonus.com/about/careers/: 403 Client Error: Forbidden for url: https://www.apica.io
 Error fetching jobs from https://coingape.com/careers/: 403 Client Error: Forbidden for url: https://coingape.com/careers/
 Error fetching jobs from https://www.crazylabs.com/careers/: 403 Client Error: Forbidden for url: https://www.crazylabs.com/careers/
 Error fetching jobs from https://www.copperleaf.com/company/careers/current-openings/: 403 Client Error: Forbidden for url: https://www.copperleaf.com/company/careers/current-openings/
-Error fetching jobs from https://www.communitybrands.com/company/join-our-team/: 403 Client Error: Forbidden for url: https://www.communitybrands.com/company/join-our-team/
 Error fetching jobs from https://www.crunchyroll.com/about/jobs/: 403 Client Error: Forbidden for url: https://www.crunchyroll.com/about/jobs/
+Error fetching jobs from https://www.communitybrands.com/company/join-our-team/: 403 Client Error: Forbidden for url: https://www.communitybrands.com/company/join-our-team/
+Error fetching jobs from https://www.datacamp.com/careers: 403 Client Error: Forbidden for url: https://www.datacamp.com/careers
 Error fetching jobs from https://www.convert.com/jobs/: 403 Client Error: Forbidden for url: https://www.convert.com/jobs/
 Error fetching jobs from https://www.communitybrands.com/company/join-our-team/: 403 Client Error: Forbidden for url: https://www.communitybrands.com/company/join-our-team/
 Error fetching jobs from https://jobs.lever.co/clearbit: 404 Client Error: Not Found for url: https://jobs.lever.co/clearbit
-Error fetching jobs from https://www.datacamp.com/careers: 403 Client Error: Forbidden for url: https://www.datacamp.com/careers
-Error fetching jobs from https://covergo.com/about-us/join-us: 403 Client Error: Forbidden for url: https://covergo.com/about-us/join-us
 Error fetching jobs from https://dappradar.com/careers: 403 Client Error: Forbidden for url: https://dappradar.com/careers
 Error fetching jobs from https://jobs.forem.com/: HTTPSConnectionPool(host='jobs.forem.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)')))
+Error fetching jobs from https://covergo.com/about-us/join-us: 403 Client Error: Forbidden for url: https://covergo.com/about-us/join-us
+Error fetching jobs from https://www.deltadental.com/us/en/about-us/careers.html: 403 Client Error: Forbidden for url: https://www.deltadental.com/us/en/about-us/careers.html
 Error fetching jobs from https://monetate.com/join-the-monetate-team/: 403 Client Error: Forbidden for url: https://monetate.com/join-the-monetate-team/
 Error fetching jobs from https://jobs.dou.ua/companies/develux/vacancies/: 403 Client Error: Forbidden for url: https://jobs.dou.ua/companies/develux/vacancies/
-Error fetching jobs from https://www.deltadental.com/us/en/about-us/careers.html: 403 Client Error: Forbidden for url: https://www.deltadental.com/us/en/about-us/careers.html
 Error fetching jobs from https://dgraph.io/careers: 404 Client Error: Not Found for url: https://dgraph.io/careers
 Error fetching jobs from https://explore.degreed.com/careers: 403 Client Error: Forbidden for url: https://explore.degreed.com/careers/
+Error fetching jobs from https://www.demandbase.com/about-us/careers/job-openings/: 403 Client Error: Forbidden for url: https://www.demandbase.com/about-us/careers/job-openings/
 Error fetching jobs from https://www.docker.com/careers/: 403 Client Error: Forbidden for url: https://www.docker.com/careers/
 Error fetching jobs from https://www.doubledotmedia.com/jobs: 403 Client Error: Forbidden for url: https://www.doubledotmedia.com/jobs
-Error fetching jobs from https://www.demandbase.com/about-us/careers/job-openings/: 403 Client Error: Forbidden for url: https://www.demandbase.com/about-us/careers/job-openings/
 Error fetching jobs from https://careers.employinc.com/search/jobs: 403 Client Error: Forbidden for url: https://careers.employinc.com/search/jobs
 Error fetching jobs from https://careers.ebury.com/: 403 Client Error: Forbidden for url: https://careers.ebury.com/
 Error fetching jobs from https://www.equalexperts.com/join-ee/: 404 Client Error: Not Found for url: https://www.equalexperts.com/join-ee/
-Error fetching jobs from https://careers.findify.io/: HTTPSConnectionPool(host='careers.findify.io', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000201C879D040>: Failed to resolve 'careers.findify.io' ([Errno 11001] getaddrinfo failed)"))
-Error fetching jobs from https://www.ensono.com/company/careers/: 403 Client Error: Forbidden for url: https://www.ensono.com/company/careers/
+Error fetching jobs from https://careers.findify.io/: HTTPSConnectionPool(host='careers.findify.io', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FE3EAF6A50>: Failed to resolve 'careers.findify.io' ([Errno 11001] getaddrinfo failed)"))
+Error fetching jobs from https://edg.io/company/careers/: 403 Client Error: Forbidden for url: https://edg.io/company/careers/
 Error fetching jobs from https://www.enok.co/join-the-team: 404 Client Error: Not Found for url: https://www.enok.co/join-the-team
 Error fetching jobs from https://fetlife.com/jobs: 403 Client Error: Forbidden for url: https://fetlife.com/jobs
+Error fetching jobs from https://www.ensono.com/company/careers/: 403 Client Error: Forbidden for url: https://www.ensono.com/company/careers/
 Error fetching jobs from https://www.exodus.io/careers/: 403 Client Error: Forbidden for url: https://www.exodus.com/careers/
-Error fetching jobs from https://edg.io/company/careers/: 403 Client Error: Forbidden for url: https://edg.io/company/careers/
 Error fetching jobs from https://jobs.forem.com/: HTTPSConnectionPool(host='jobs.forem.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)')))
 Error fetching jobs from https://www.fiverr.com/jobs: 403 Client Error: Forbidden for url: https://www.fiverr.com/jobs
-Error fetching jobs from https://careers.getbeyond.com/: HTTPSConnectionPool(host='careers.getbeyond.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'careers.getbeyond.com'. (_ssl.c:1000)")))
 Error fetching jobs from https://flightaware.com/about/careers/: 403 Client Error: Forbidden for url: https://www.flightaware.com/about/careers/
-Error fetching jobs from https://www.frontlineeducation.com/about/careers/: 403 Client Error: Forbidden for url: https://www.frontlineeducation.com/about/careers/
+Error fetching jobs from https://careers.getbeyond.com/: HTTPSConnectionPool(host='careers.getbeyond.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'careers.getbeyond.com'. (_ssl.c:1000)")))
 Error fetching jobs from careers.godaddy.com: Invalid URL 'careers.godaddy.com': No scheme supplied. Perhaps you meant https://careers.godaddy.com?
-Error fetching jobs from https://jobs.lever.co/eventbrite/: 404 Client Error: Not Found for url: https://jobs.lever.co/eventbrite/
-Error fetching jobs from https://futureholidays.co/careers/: 403 Client Error: Forbidden for url: https://futureholidays.co/careers/
+Error fetching jobs from https://www.frontlineeducation.com/about/careers/: 403 Client Error: Forbidden for url: https://www.frontlineeducation.com/about/careers/
 Error fetching jobs from https://www.galvanize.com/careers/: 403 Client Error: Forbidden for url: https://www.galvanize.com/careers/
-Error fetching jobs from https://ghostinspector.com/jobs/: 403 Client Error: Forbidden for url: https://ghostinspector.com/jobs/
+Error fetching jobs from https://futureholidays.co/careers/: 403 Client Error: Forbidden for url: https://futureholidays.co/careers/
 Error fetching jobs from https://remoteok.com/glasp: 429 Client Error: Too Many Requests for url: https://remoteok.com/
-Error fetching jobs from https://gusto.com/about/careers: 403 Client Error: Forbidden for url: https://gusto.com/about/careers
-Error fetching jobs from https://www.holomeeting.io/jobs: HTTPSConnectionPool(host='www.holomeeting.io', port=443): Max retries exceeded with url: /jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000201C618A1E0>: Failed to resolve 'www.holomeeting.io' ([Errno 11001] getaddrinfo failed)"))
-Error fetching jobs from https://gluware.com/jobs/: 403 Client Error: Forbidden for url: https://gluware.com/jobs/
 Error fetching jobs from https://remoteok.com/growtha: 429 Client Error: Too Many Requests for url: https://remoteok.com/growtha
-Error fetching jobs from https://gridium.com/about/working-at-gridium/: 403 Client Error: Forbidden for url: https://gridium.com/about/working-at-gridium/
+Error fetching jobs from https://jobs.lever.co/eventbrite/: 404 Client Error: Not Found for url: https://jobs.lever.co/eventbrite/
 Error fetching jobs from https://h1.co/company/careers/: 403 Client Error: Forbidden for url: https://h1.co/company/careers/
-Error fetching jobs from https://www.hopper.com/careers: 403 Client Error: Forbidden for url: https://www.hopper.com/careers
+Error fetching jobs from https://ghostinspector.com/jobs/: 403 Client Error: Forbidden for url: https://ghostinspector.com/jobs/
+Error fetching jobs from https://gusto.com/about/careers: 403 Client Error: Forbidden for url: https://gusto.com/about/careers
+Error fetching jobs from https://gridium.com/about/working-at-gridium/: 403 Client Error: Forbidden for url: https://gridium.com/about/working-at-gridium/
+Error fetching jobs from https://gluware.com/jobs/: 403 Client Error: Forbidden for url: https://gluware.com/jobs/
 Error fetching jobs from https://flip.id/en/karir: 500 Server Error: Internal Server Error for url: https://flip.id/en/karir
+Error fetching jobs from https://www.holomeeting.io/jobs: HTTPSConnectionPool(host='www.holomeeting.io', port=443): Max retries exceeded with url: /jobs (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FE3E17E8A0>: Failed to resolve 'www.holomeeting.io' ([Errno 11001] getaddrinfo failed)"))
 Error fetching jobs from https://husldigital.com/careers/: 403 Client Error: Forbidden for url: https://husldigital.com/careers/
-Error fetching jobs from https://hireology.com/careers/: 403 Client Error: Forbidden for url: https://hireology.com/careers/
-Error fetching jobs from https://www.honorbuilt.com/careers/: 403 Client Error: Forbidden for url: https://www.honorbuilt.com/careers/
-Error fetching jobs from https://www.homevalet.co/careers/: 403 Client Error: Forbidden for url: https://www.homevalet.co/careers/
-Error fetching jobs from https://www.immersivelabs.com/job-openings/: 403 Client Error: Forbidden for url: https://www.immersivelabs.com/job-openings/
-Error fetching jobs from https://www.healthcatalyst.com/who-we-are/careers: 403 Client Error: Forbidden for url: https://www.healthcatalyst.com/who-we-are/careers
+Error fetching jobs from https://www.hopper.com/careers: 403 Client Error: Forbidden for url: https://www.hopper.com/careers
 Error fetching jobs from https://greenm.io/careers/: 404 Client Error: Not Found for url: https://greenm.io/careers/
+Error fetching jobs from https://www.immersivelabs.com/job-openings/: 403 Client Error: Forbidden for url: https://www.immersivelabs.com/job-openings/
+Error fetching jobs from https://www.homevalet.co/careers/: 403 Client Error: Forbidden for url: https://www.homevalet.co/careers/
+Error fetching jobs from https://hireology.com/careers/: 403 Client Error: Forbidden for url: https://hireology.com/careers/
+Error fetching jobs from https://impala.travel/en/careers: 404 Client Error: Not Found for url: https://impala.travel/en/careers/
+Error fetching jobs from https://www.honorbuilt.com/careers/: 403 Client Error: Forbidden for url: https://www.honorbuilt.com/careers/
+Error fetching jobs from https://www.healthcatalyst.com/who-we-are/careers: 403 Client Error: Forbidden for url: https://www.healthcatalyst.com/who-we-are/careers
 Error fetching jobs from https://www.hypergiant.com/careers/: 403 Client Error: Forbidden for url: https://www.hypergiant.com/careers/
 Error fetching jobs from https://www.imaginelearning.com/about/careers/: 403 Client Error: Forbidden for url: https://www.imaginelearning.com/about/careers/
-Error fetching jobs from https://impala.travel/en/careers: 404 Client Error: Not Found for url: https://impala.travel/en/careers/
 Error fetching jobs from https://www.inovalon.com/careers/#openings: 403 Client Error: Forbidden for url: https://www.inovalon.com/careers/#openings
 Error fetching jobs from https://www.instaclustr.com/careers/: 403 Client Error: Forbidden for url: https://www.instaclustr.com/careers/
-Error fetching jobs from https://www.iubenda.com/en/help/1812-work-with-us: 415 Client Error: Unsupported Media Type for url: https://www.iubenda.com/en/help/1812-work-with-us
 Error fetching jobs from https://ipinfo.io/jobs: 404 Client Error: Not Found for url: https://ipinfo.io/jobs
 Error fetching jobs from https://iwantmyname.com/jobs: 403 Client Error: Forbidden for url: https://iwantmyname.com/jobs
 Error fetching jobs from https://insomniac.games/careers/: 403 Client Error: Forbidden for url: https://insomniac.games/careers/
-Error fetching jobs from https://interface.ai/open-positions/: 403 Client Error: Forbidden for url: https://interface.ai/open-positions/
-Error fetching jobs from https://www.invisionapp.com/careers: 500 Server Error: Internal Server Error for url: https://www.invisionapp.com/careers
+Error fetching jobs from https://www.iubenda.com/en/help/1812-work-with-us: 415 Client Error: Unsupported Media Type for url: https://www.iubenda.com/en/help/1812-work-with-us
 Error fetching jobs from https://www.jobscan.co/careers: 403 Client Error: Forbidden for url: https://www.jobscan.co/careers
+Error fetching jobs from https://interface.ai/open-positions/: 403 Client Error: Forbidden for url: https://interface.ai/open-positions/
 Error fetching jobs from https://www.togetherwork.com/jobs/: 403 Client Error: Forbidden for url: https://www.togetherwork.com/jobs/
+Error fetching jobs from https://www.invisionapp.com/careers: 500 Server Error: Internal Server Error for url: https://www.invisionapp.com/careers
 Error fetching jobs from https://careers.justmarkets.com/: 403 Client Error: Forbidden for url: https://careers.justmarkets.com/
 Error fetching jobs from https://justfund.us/careers/: 403 Client Error: Forbidden for url: https://justfund.us/careers/
-Error fetching jobs from https://kontist.com/en/careers/: 404 Client Error: Not Found for url: https://kontist.com/en/careers/
-Error fetching jobs from https://www.kuali.co/jobs: 404 Client Error: Not Found for url: https://www.kuali.co/jobs
-Error fetching jobs from https://www.knack.com/careers: 403 Client Error: Forbidden for url: https://www.knack.com/careers
 Error fetching jobs from https://www.kraken.com/careers: 403 Client Error: Forbidden for url: https://www.kraken.com/careers
 Error fetching jobs from https://recruitment.jobsity.com/applylp: 404 Client Error: Not Found for url: https://recruitment.jobsity.com/applylp
+Error fetching jobs from https://kontist.com/en/careers/: 404 Client Error: Not Found for url: https://kontist.com/en/careers/
+Error fetching jobs from https://www.kuali.co/jobs: 404 Client Error: Not Found for url: https://www.kuali.co/jobs
 Error fetching jobs from https://www.lhh.com/us/en/search-jobs/: 403 Client Error: Forbidden for url: https://www.lhh.com/us/en/search-jobs/
-Error fetching jobs from https://krit.homerun.co/: 404 Client Error: Not Found for url: https://404.homerun.co/working_at/krit
+Error fetching jobs from https://www.knack.com/careers: 403 Client Error: Forbidden for url: https://www.knack.com/careers
+Error fetching jobs from https://wellfound.com/company/localistico/jobs: 403 Client Error: Forbidden for url: https://wellfound.com/company/localistico/jobs
 Error fetching jobs from https://www.maxio.com/careers: 403 Client Error: Forbidden for url: https://www.maxio.com/careers
 Error fetching jobs from https://www.careersatmaids.cc/apply/: HTTPSConnectionPool(host='www.careersatmaids.cc', port=443): Max retries exceeded with url: /apply/ (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)')))
-Error fetching jobs from https://wellfound.com/company/localistico/jobs: 403 Client Error: Forbidden for url: https://wellfound.com/company/localistico/jobs
-Error fetching jobs from https://www.lavinmedia.com/careers: 404 Client Error: Not Found for url: https://www.lavinmedia.com/careers
 Error fetching jobs from https://www.lexblog.com/careers/: 403 Client Error: Forbidden for url: https://www.lexblog.com/careers/
-Error fetching jobs from https://mattermost.com/careers/#openings: 403 Client Error: Forbidden for url: https://mattermost.com/careers/#openings
+Error fetching jobs from https://krit.homerun.co/: 404 Client Error: Not Found for url: https://404.homerun.co/working_at/krit
+Error fetching jobs from https://www.lavinmedia.com/careers: 404 Client Error: Not Found for url: https://www.lavinmedia.com/careers
 Error fetching jobs from https://mayvue.com/careers/: HTTPSConnectionPool(host='mayvue.com', port=443): Max retries exceeded with url: /careers/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))
-Error fetching jobs from http://opportunities.cariboudigital.net/: HTTPConnectionPool(host='opportunities.cariboudigital.net', port=80): Read timed out. (read timeout=10)
 Error fetching jobs from https://angel.co/company/maze-design/jobs: 403 Client Error: Forbidden for url: https://wellfound.com/company/maze-design/jobs
+Error fetching jobs from https://mattermost.com/careers/#openings: 403 Client Error: Forbidden for url: https://mattermost.com/careers/#openings
 Error fetching jobs from https://www.maxio.com/careers: 403 Client Error: Forbidden for url: https://www.maxio.com/careers
+Error fetching jobs from https://mobilejazz.com/careers/: HTTPSConnectionPool(host='mobilejazz.com', port=443): Max retries exceeded with url: /careers/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FE3F295C70>: Failed to resolve 'mobilejazz.com' ([Errno 11001] getaddrinfo failed)"))
 Error fetching jobs from https://www.metalab.co/careers#careers: 404 Client Error: Not Found for url: https://www.metalab.co/careers#careers
 Error fetching jobs from https://www.meridianlink.com/careers: 403 Client Error: Forbidden for url: https://www.meridianlink.com/careers
-Error fetching jobs from https://mobilejazz.com/careers/: HTTPSConnectionPool(host='mobilejazz.com', port=443): Max retries exceeded with url: /careers/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000201C3FABBC0>: Failed to resolve 'mobilejazz.com' ([Errno 11001] getaddrinfo failed)"))
+Error fetching jobs from https://boards.greenhouse.io/microverse: 404 Client Error: Not Found for url: https://boards.greenhouse.io/microverse
 Error fetching jobs from https://muckrack.com/careers: 403 Client Error: Forbidden for url: https://muckrack.com/careers
 Error fetching jobs from https://mycelium.xyz/careers: 404 Client Error: Not Found for url: https://mycelium.xyz/careers
 Error fetching jobs from https://meeshkan.com/about-us/jobs/: 404 Client Error: Not Found for url: https://www.meeshkan.com/about-us/jobs/
-Error fetching jobs from https://boards.greenhouse.io/microverse: 404 Client Error: Not Found for url: https://boards.greenhouse.io/microverse
+Error fetching jobs from https://medrecord.io/we-are-hiring/: 404 Client Error: Not Found for url: https://medrecord.io/we-are-hiring/
 Error fetching jobs from https://monetate.com/join-the-monetate-team/: 403 Client Error: Forbidden for url: https://monetate.com/join-the-monetate-team/
 Error fetching jobs from https://moduscreate.com/careers/: 403 Client Error: Forbidden for url: https://moduscreate.com/careers/
 Error fetching jobs from https://novoda.com/hiring: 404 Client Error: Not Found for url: https://novoda.com/hiring
-Error fetching jobs from https://medrecord.io/we-are-hiring/: 404 Client Error: Not Found for url: https://medrecord.io/we-are-hiring/
-Error fetching jobs from https://nethermind.io/company/: 404 Client Error: Not Found for url: https://www.nethermind.io/company
+Error fetching jobs from https://oddball.io/jobs/: 403 Client Error: Forbidden for url: https://oddball.io/jobs/
 Error fetching jobs from https://www.noom.com/careers/: 403 Client Error: Forbidden for url: https://www.noom.com/careers/
 Error fetching jobs from https://www.nuna.com/careers/: 403 Client Error: Forbidden for url: https://www.nuna.com/careers/
-Error fetching jobs from https://oddball.io/jobs/: 403 Client Error: Forbidden for url: https://oddball.io/jobs/
-Error fetching jobs from https://careers.packlink.com/: HTTPSConnectionPool(host='careers.packlink.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000201C665B260>: Failed to resolve 'careers.packlink.com' ([Errno 11001] getaddrinfo failed)"))
-Error fetching jobs from https://www.opensignal.com/about/careers: 403 Client Error: Forbidden for url: https://www.opensignal.com/about/careers
+Error fetching jobs from https://nethermind.io/company/: 404 Client Error: Not Found for url: https://www.nethermind.io/company
 Error fetching jobs from https://www.ollyolly.com/careers/: 403 Client Error: Forbidden for url: https://www.ollyolly.com/careers/
+Error fetching jobs from https://careers.packlink.com/: HTTPSConnectionPool(host='careers.packlink.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FE40744200>: Failed to resolve 'careers.packlink.com' ([Errno 11001] getaddrinfo failed)"))
+Error fetching jobs from https://www.opensignal.com/about/careers: 403 Client Error: Forbidden for url: https://www.opensignal.com/about/careers
 Error fetching jobs from https://opencraft.com/jobs/: 403 Client Error: Forbidden for url: https://opencraft.com/jobs/
-Error fetching jobs from https://www.nugistics.io/careers/: 404 Client Error: Not Found for url: https://nugistics.io/careers/
 Error fetching jobs from https://www.om1.com/about/careers/: 403 Client Error: Forbidden for url: https://www.om1.com/about/careers/
-Error fetching jobs from https://jobs.dou.ua/companies/paymentop/vacancies/: 403 Client Error: Forbidden for url: https://jobs.dou.ua/companies/paymentop/vacancies/
 Error fetching jobs from https://www.netris.io/job-openings/: 404 Client Error: Not Found for url: https://www.netris.io/job-openings/
-Error fetching jobs from https://jobs.dou.ua/companies/plai/: 403 Client Error: Forbidden for url: https://jobs.dou.ua/companies/plai/
+Error fetching jobs from https://jobs.dou.ua/companies/paymentop/vacancies/: 403 Client Error: Forbidden for url: https://jobs.dou.ua/companies/paymentop/vacancies/
 Error fetching jobs from https://partech.com/careers/: 403 Client Error: Forbidden for url: https://partech.com/careers/
-Error fetching jobs from https://www.parkassist.com/contact-us-2/careers/: 403 Client Error: Forbidden for url: https://www.parkassist.com/contact-us-2/careers/
-Error fetching jobs from https://www.packetfabric.com/careers: 403 Client Error: Forbidden for url: http://packetfabric.com/careers
 Error fetching jobs from https://our-hometown.com/job-opportunities/: 404 Client Error: Not Found for url: https://our-hometown.com/job-opportunities/
-Error fetching jobs from https://jobs.lever.co/omni-network: 404 Client Error: Not Found for url: https://jobs.lever.co/omni-network
+Error fetching jobs from https://www.parkassist.com/contact-us-2/careers/: 403 Client Error: Forbidden for url: https://www.parkassist.com/contact-us-2/careers/
+Error fetching jobs from https://jobs.dou.ua/companies/plai/: 403 Client Error: Forbidden for url: https://jobs.dou.ua/companies/plai/
+Error fetching jobs from https://drupaljedi.com/careers/: HTTPSConnectionPool(host='drupaljedi.com', port=443): Max retries exceeded with url: /careers/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FE3EFC2BA0>: Failed to resolve 'drupaljedi.com' ([Errno 11002] getaddrinfo failed)"))
 Error fetching jobs from https://www.pluralsight.com/careers: 403 Client Error: Forbidden for url: https://www.pluralsight.com/careers
-Error fetching jobs from https://drupaljedi.com/careers/: HTTPSConnectionPool(host='drupaljedi.com', port=443): Max retries exceeded with url: /careers/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000201C62FAA20>: Failed to resolve 'drupaljedi.com' ([Errno 11002] getaddrinfo failed)"))
-Error fetching jobs from https://www.plex.tv/careers/: 403 Client Error: Forbidden for url: https://www.plex.tv/careers/
-Error fetching jobs from https://piktochart.com/careers/: 520 Server Error:  for url: https://piktochart.com/careers/
+Error fetching jobs from https://www.nugistics.io/careers/: 404 Client Error: Not Found for url: https://nugistics.io/careers/
+Error fetching jobs from https://jobs.lever.co/omni-network: 404 Client Error: Not Found for url: https://jobs.lever.co/omni-network
 Error fetching jobs from primer.io/careers: Invalid URL 'primer.io/careers': No scheme supplied. Perhaps you meant https://primer.io/careers?
+Error fetching jobs from https://www.plex.tv/careers/: 403 Client Error: Forbidden for url: https://www.plex.tv/careers/
+Error fetching jobs from https://jobs.kenoby.com/acct: HTTPSConnectionPool(host='jobs.kenoby.com', port=443): Max retries exceeded with url: /acct (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FE3E712300>: Failed to resolve 'jobs.kenoby.com' ([Errno 11001] getaddrinfo failed)"))
 Error fetching jobs from https://essenceofemail.com/careers/: HTTPSConnectionPool(host='essenceofemail.com', port=443): Read timed out. (read timeout=10)
-Error fetching jobs from https://jobs.kenoby.com/acct: HTTPSConnectionPool(host='jobs.kenoby.com', port=443): Max retries exceeded with url: /acct (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000201C7DC4560>: Failed to resolve 'jobs.kenoby.com' ([Errno 11001] getaddrinfo failed)"))
+Error fetching jobs from https://careers.precisiongroupcompanies.com/: 403 Client Error: Forbidden for url: https://careers.precisiongroupcompanies.com/
 Error fetching jobs from https://www.procurify.com/careers/: 403 Client Error: Forbidden for url: https://www.procurify.com/careers/
 Error fetching jobs from https://wellfound.com/company/quantify: 403 Client Error: Forbidden for url: https://wellfound.com/company/quantify
-Error fetching jobs from https://careers.precisiongroupcompanies.com/: 403 Client Error: Forbidden for url: https://careers.precisiongroupcompanies.com/
-Error fetching jobs from https://wellfound.com/company/reedsy/jobs: 403 Client Error: Forbidden for url: https://wellfound.com/company/reedsy/jobs
+Error fetching jobs from https://www.packetfabric.com/careers: 403 Client Error: Forbidden for url: http://packetfabric.com/careers
 Error fetching jobs from https://praxent.com/careers-2: 403 Client Error: Forbidden for url: https://praxent.com/careers-2
-Error fetching jobs from https://www.redcloudtechnology.com/work-with-us: 403 Client Error: Forbidden for url: https://www.redcloudtechnology.com/work-with-us
 Error fetching jobs from https://partech.com/careers/: 403 Client Error: Forbidden for url: https://partech.com/careers/
-Error fetching jobs from https://www.redoxengine.com/company/careers/: 403 Client Error: Forbidden for url: https://www.redoxengine.com/company/careers/
+Error fetching jobs from https://wellfound.com/company/reedsy/jobs: 403 Client Error: Forbidden for url: https://wellfound.com/company/reedsy/jobs
 Error fetching jobs from https://publica.la/en/about/careers: 403 Client Error: Forbidden for url: https://publica.la/en/about/careers
-Error fetching jobs from https://redcanary.com/job-openings/: 403 Client Error: Forbidden for url: https://redcanary.com/job-openings/
+Error fetching jobs from https://www.redcloudtechnology.com/work-with-us: 403 Client Error: Forbidden for url: https://www.redcloudtechnology.com/work-with-us
+Error fetching jobs from https://www.redoxengine.com/company/careers/: 403 Client Error: Forbidden for url: https://www.redoxengine.com/company/careers/
 Error fetching jobs from https://www.repay.com/careers/: 403 Client Error: Forbidden for url: https://www.repay.com/careers/
+Error fetching jobs from https://redcanary.com/job-openings/: 403 Client Error: Forbidden for url: https://redcanary.com/job-openings/
 Error fetching jobs from https://rechargepayments.com/careers/: 403 Client Error: Forbidden for url: http://getrecharge.com/careers/
-Error fetching jobs from https://www.seaplane.io/careers: HTTPSConnectionPool(host='www.seaplane.io', port=443): Max retries exceeded with url: /careers (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000201C54139B0>: Failed to resolve 'www.seaplane.io' ([Errno 11001] getaddrinfo failed)"))
-Error fetching jobs from https://www.scandit.com/careers/: 403 Client Error: Forbidden for url: https://www.scandit.com/careers/
 Error fetching jobs from https://www.safeguardglobal.com/careers/: 403 Client Error: Forbidden for url: https://www.safeguardglobal.com/careers/
+Error fetching jobs from https://www.seaplane.io/careers: HTTPSConnectionPool(host='www.seaplane.io', port=443): Max retries exceeded with url: /careers (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FE407CE690>: Failed to resolve 'www.seaplane.io' ([Errno 11001] getaddrinfo failed)"))
+Error fetching jobs from https://www.revolut.com/careers/: 403 Client Error: Forbidden for url: https://www.revolut.com/careers/
 Error fetching jobs from https://www.sandstonecare.com/about/careers/: 403 Client Error: Forbidden for url: https://www.sandstonecare.com/about/careers/
 Error fetching jobs from https://roadtrippers.com/careers/: 403 Client Error: Forbidden for url: https://roadtrippers.com/careers/
 Error fetching jobs from https://securitytrails.com/corp/careers: 403 Client Error: Forbidden for url: https://securitytrails.com/corp/careers
+Error fetching jobs from https://www.scandit.com/careers/: 403 Client Error: Forbidden for url: https://www.scandit.com/careers/
 Error fetching jobs from https://wellfound.com/company/servmask-1/jobs: 403 Client Error: Forbidden for url: https://wellfound.com/company/servmask-1/jobs
 Error fetching jobs from https://www.scylladb.com/company/careers/: 403 Client Error: Forbidden for url: https://www.scylladb.com/company/careers/
-Error fetching jobs from https://www.revolut.com/careers/: 403 Client Error: Forbidden for url: https://www.revolut.com/careers/
-Error fetching jobs from https://www.sagesure.com/careers/current-job-openings/: 403 Client Error: Forbidden for url: https://www.sagesure.com/careers/current-job-openings/
 Error fetching jobs from https://saas.group/careers/: 403 Client Error: Forbidden for url: https://saas.group/careers/
+Error fetching jobs from https://www.sagesure.com/careers/current-job-openings/: 403 Client Error: Forbidden for url: https://www.sagesure.com/careers/current-job-openings/
 Error fetching jobs from https://securityscorecard.com/company/careers/: 403 Client Error: Forbidden for url: https://securityscorecard.com/company/careers/
-Error fetching jobs from https://careers-security-finance.icims.com/jobs/intro: 404 Client Error: Not Found for url: https://careers-security-finance.icims.com/jobs/intro
-Error fetching jobs from https://www.skillshare.com/en/careers: 403 Client Error: Forbidden for url: https://www.skillshare.com/en/careers
 Error fetching jobs from https://www.numbrs.com/en-uk/careers/: 404 Client Error: Not Found for url: https://www.selfcustody.net/en-uk/careers/
+Error fetching jobs from https://careers-security-finance.icims.com/jobs/intro: 404 Client Error: Not Found for url: https://careers-security-finance.icims.com/jobs/intro
 Error fetching jobs from https://www.seeq.com/about/careers: 403 Client Error: Forbidden for url: https://www.seeq.com/about/careers
+Error fetching jobs from https://www.skillshare.com/en/careers: 403 Client Error: Forbidden for url: https://www.skillshare.com/en/careers
 Error fetching jobs from https://simplyprofoundjourneys.recruitee.com/: 404 Client Error: Not Found for url: https://recruitee.com/careers_not_hosted
 Error fetching jobs from https://simpletexting.com/careers/: 403 Client Error: Forbidden for url: https://simpletexting.com/careers/
 Error fetching jobs from https://careers.sporty.com/: 403 Client Error: Forbidden for url: https://careers.sporty.com/
-Error fetching jobs from https://www.springboard.com/join-us/: 403 Client Error: Forbidden for url: https://www.springboard.com/join-us/
 Error fetching jobs from https://www.soundhound.com/careers/: 403 Client Error: Forbidden for url: https://www.soundhound.com/careers/
-Error fetching jobs from https://jobs.lever.co/scratchfinancial: 404 Client Error: Not Found for url: https://jobs.lever.co/scratchfinancial
+Error fetching jobs from https://www.springboard.com/join-us/: 403 Client Error: Forbidden for url: https://www.springboard.com/join-us/
 Error fetching jobs from https://careers.spreaker.com/: 403 Client Error: Forbidden for url: https://careers.spreaker.com/
-Error fetching jobs from https://getspruce.com/careers/: 403 Client Error: Forbidden for url: https://getspruce.com/careers/
 Error fetching jobs from https://spideroak.com/jobs/: 403 Client Error: Forbidden for url: https://spideroak.com/jobs/
+Error fetching jobs from https://getspruce.com/careers/: 403 Client Error: Forbidden for url: https://getspruce.com/careers/
+Error fetching jobs from https://jobs.lever.co/scratchfinancial: 404 Client Error: Not Found for url: https://jobs.lever.co/scratchfinancial
 Error fetching jobs from https://www.stonepress.com/career/: 403 Client Error: Forbidden for url: https://www.stonepress.com/career/
 Error fetching jobs from https://www.tanookilabs.com/jobs: 403 Client Error: Forbidden for url: https://www.tanookilabs.com/jobs
+Error fetching jobs from https://sysdig.com/careers/: 403 Client Error: Forbidden for url: https://sysdig.com/careers/
 Error fetching jobs from https://www.taskize.com/about/careers/: 403 Client Error: Forbidden for url: https://www.taskize.com/about/careers/
 Error fetching jobs from https://tackle.io/careers/: 403 Client Error: Forbidden for url: https://tackle.io/careers/
-Error fetching jobs from https://sysdig.com/careers/: 403 Client Error: Forbidden for url: https://sysdig.com/careers/
-Error fetching jobs from https://www.telusinternational.com/careers: 403 Client Error: Forbidden for url: https://www.telusinternational.com/careers
-Error fetching jobs from https://jobs.sutherlandglobal.com/: 403 Client Error: Forbidden for url: https://jobs.sutherlandglobal.com/
 Error fetching jobs from https://boards.greenhouse.io/sylva: 404 Client Error: Not Found for url: https://boards.greenhouse.io/sylva
+Error fetching jobs from https://jobs.sutherlandglobal.com/: 403 Client Error: Forbidden for url: https://jobs.sutherlandglobal.com/
+Error fetching jobs from https://www.telusinternational.com/careers: 403 Client Error: Forbidden for url: https://www.telusinternational.com/careers
 Error fetching jobs from https://www.tides.org/about/careers/: 403 Client Error: Forbidden for url: https://www.tides.org/about/careers/
 Error fetching jobs from https://www.thetrevorproject.org/careers/: 403 Client Error: Forbidden for url: https://www.thetrevorproject.org/careers/
 Error fetching jobs from https://wellfound.com/company/tidyhq/jobs: 403 Client Error: Forbidden for url: https://wellfound.com/company/tidyhq/jobs
 Error fetching jobs from https://taplytics.com/careers/: 403 Client Error: Forbidden for url: https://taplytics.com/careers/
-Error fetching jobs from https://www.toptal.com/careers: 403 Client Error: Forbidden for url: https://www.toptal.com/careers
-Error fetching jobs from https://swimlane.com/careers/: 403 Client Error: Forbidden for url: https://swimlane.com/careers/
-Error fetching jobs from https://www.togetherwork.com/jobs/: 403 Client Error: Forbidden for url: https://www.togetherwork.com/jobs/
 Error fetching jobs from https://boards.greenhouse.io/theroom: 404 Client Error: Not Found for url: https://boards.greenhouse.io/theroom
+Error fetching jobs from https://swimlane.com/careers/: 403 Client Error: Forbidden for url: https://swimlane.com/careers/
 Error fetching jobs from https://timelyapp.com/jobs: 404 Client Error: Not Found for url: https://timelyapp.com/jobs
 Error fetching jobs from https://www.publisherdesk.com/careers/: 403 Client Error: Forbidden for url: https://www.publisherdesk.com/careers/
-Error fetching jobs from https://www.taskrabbit.com/careers: 429 Client Error: Too Many Requests for url: https://www.taskrabbit.com/browser/unsupported
-Error fetching jobs from https://www.travistravis.co/careers: 404 Client Error: Not Found for url: https://www.travistravis.co/careers
-Error fetching jobs from https://www.thorn.org/careers/: 403 Client Error: Forbidden for url: https://www.thorn.org/careers/
-Error fetching jobs from https://thesoftwarepractice.com/careers/: 403 Client Error: Forbidden for url: https://thesoftwarepractice.com/careers/
 Error fetching jobs from https://tinuiti.com/careers/#open-positions: 403 Client Error: Forbidden for url: https://tinuiti.com/careers/#open-positions
-Error fetching jobs from https://www.udacity.com/jobs#content: 403 Client Error: Forbidden for url: https://www.udacity.com/jobs#content
+Error fetching jobs from https://www.toptal.com/careers: 403 Client Error: Forbidden for url: https://www.toptal.com/careers
+Error fetching jobs from https://www.thorn.org/careers/: 403 Client Error: Forbidden for url: https://www.thorn.org/careers/
+Error fetching jobs from https://www.travistravis.co/careers: 404 Client Error: Not Found for url: https://www.travistravis.co/careers
+Error fetching jobs from https://www.taskrabbit.com/careers: 429 Client Error: Too Many Requests for url: https://www.taskrabbit.com/browser/unsupported
 Error fetching jobs from https://jobs.lever.co/subspacelabs: 404 Client Error: Not Found for url: https://jobs.lever.co/subspacelabs
+Error fetching jobs from https://thesoftwarepractice.com/careers/: 403 Client Error: Forbidden for url: https://thesoftwarepractice.com/careers/
+Error fetching jobs from https://www.togetherwork.com/jobs/: 403 Client Error: Forbidden for url: https://www.togetherwork.com/jobs/
+Error fetching jobs from https://www.udacity.com/jobs#content: 403 Client Error: Forbidden for url: https://www.udacity.com/jobs#content
 Error fetching jobs from https://www.ukg.com/about-us/careers: 403 Client Error: Forbidden for url: https://www.ukg.com/about-us/careers
-Error fetching jobs from https://tuffgrowth.com/careers/: 403 Client Error: Forbidden for url: https://tuffgrowth.com/careers/
 Error fetching jobs from https://careers.ukufu.com/: HTTPSConnectionPool(host='careers.ukufu.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1000)')))
+Error fetching jobs from https://tuffgrowth.com/careers/: 403 Client Error: Forbidden for url: https://tuffgrowth.com/careers/
 Error fetching jobs from https://www.upwork.com/careers: 403 Client Error: Forbidden for url: https://www.upwork.com/careers
-Error fetching jobs from https://www.vonage.com/careers/: 403 Client Error: Forbidden for url: https://www.vonage.com/careers/
-Error fetching jobs from https://jobs.lever.co/thestudio: 404 Client Error: Not Found for url: https://jobs.lever.co/thestudio
-Error fetching jobs from https://careers.vmware.com/careers-home/: HTTPSConnectionPool(host='careers.vmware.com', port=443): Max retries exceeded with url: /careers-home/ (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)')))
-Error fetching jobs from https://www.uptalent.io/careers: HTTPSConnectionPool(host='www.uptalent.io', port=443): Max retries exceeded with url: /careers (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.uptalent.io'. (_ssl.c:1000)")))
 Error fetching jobs from https://tlmpartners.com/job-openings/: 404 Client Error: Not Found for url: https://www.endava.com/industries/media-entertainment/video-gamesjob-openings/
+Error fetching jobs from https://jobs.lever.co/thestudio: 404 Client Error: Not Found for url: https://jobs.lever.co/thestudio
+Error fetching jobs from https://www.uptalent.io/careers: HTTPSConnectionPool(host='www.uptalent.io', port=443): Max retries exceeded with url: /careers (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.uptalent.io'. (_ssl.c:1000)")))
+Error fetching jobs from https://www.vonage.com/careers/: 403 Client Error: Forbidden for url: https://www.vonage.com/careers/
+Error fetching jobs from https://careers.vmware.com/careers-home/: HTTPSConnectionPool(host='careers.vmware.com', port=443): Max retries exceeded with url: /careers-home/ (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)')))
 Error fetching jobs from https://www.vaco.com/about/join-our-team/: 403 Client Error: Forbidden for url: https://www.vaco.com/about/join-our-team/
 Error fetching jobs from https://www.valimail.com/careers/: 403 Client Error: Forbidden for url: https://www.valimail.com/careers/
 Error fetching jobs from https://www.whatnot.com/careers: 403 Client Error: Forbidden for url: https://www.whatnot.com/careers
 Error fetching jobs from https://www.workiva.com/careers: 403 Client Error: Forbidden for url: https://www.workiva.com/careers
-Error fetching jobs from https://www.windmill.digital/careers/: 403 Client Error: Forbidden for url: https://www.windmill.digital/careers/
 Error fetching jobs from https://www.wvi.org/careers: 403 Client Error: Forbidden for url: https://www.wvi.org/careers
+Error fetching jobs from https://www.windmill.digital/careers/: 403 Client Error: Forbidden for url: https://www.windmill.digital/careers/
 Error fetching jobs from https://webdevstudios.com/careers/: 403 Client Error: Forbidden for url: https://webdevstudios.com/careers/
 Error fetching jobs from https://welltech.com/career/: 403 Client Error: Forbidden for url: https://welltech.com/career/
 Error fetching jobs from https://www.wes.org/careers-at-wes/: 403 Client Error: Forbidden for url: https://www.wes.org/careers-at-wes/
 Error fetching jobs from https://zenrows.notion.site/efa1774179f74bbba7dee4cd16ab116c?v=ad95dcd3e4b841eb8d6526d3e7066294: 404 Client Error: Not Found for url: https://zenrows.notion.site/efa1774179f74bbba7dee4cd16ab116c?v=ad95dcd3e4b841eb8d6526d3e7066294
+Error fetching jobs from https://careers.crometrics.com/: HTTPSConnectionPool(host='careers.crometrics.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001FE3E261EE0>, 'Connection to careers.crometrics.com timed out. (connect timeout=10)'))
 Error fetching jobs from https://www.retailzipline.com/about-us/careers: 403 Client Error: Forbidden for url: https://getzipline.com/about-us/careers
-Error fetching jobs from https://careers.crometrics.com/: HTTPSConnectionPool(host='careers.crometrics.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000201C6639490>, 'Connection to careers.crometrics.com timed out. (connect timeout=10)'))
 Error fetching jobs from https://www.opentable.com/careers/: HTTPSConnectionPool(host='www.opentable.com', port=443): Read timed out. (read timeout=10)
 Error fetching jobs from https://jobs.lever.co/zerolongevity: 404 Client Error: Not Found for url: https://jobs.lever.co/zerolongevity
+Error fetching jobs from https://realworld-one.com/careers/: HTTPSConnectionPool(host='realworld-one.com', port=443): Read timed out. (read timeout=10)
 Error fetching jobs from https://www.strava.com/careers: HTTPSConnectionPool(host='www.strava.com', port=443): Read timed out. (read timeout=10)
