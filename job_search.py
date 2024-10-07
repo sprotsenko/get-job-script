@@ -9,8 +9,8 @@ def find_jobs(urls, jobs_output_file, keywords):
     """Read URLs from file, find matching jobs, and log errors."""
     
     # Init counters for jobs and errors
-    job_counter = Counter()
-    error_counter = Counter()
+    successful_jobs_counter = Counter()
+    error_urls_counter = Counter()
 
     logging.info("Starting job search.")
     
@@ -27,20 +27,25 @@ def find_jobs(urls, jobs_output_file, keywords):
 
                     if isinstance(matched_jobs, str):  # If an error occurred, it's returned as a string
                         logging.error(f"Error fetching jobs from {url}: {matched_jobs}")
-                        error_counter[url] += 1 #Count errors
+                        error_urls_counter[url] += 1  # Count errors
                     elif matched_jobs:
                         logging.info(f"Matching jobs found on {url}: {len(matched_jobs)} jobs")
                         for job in matched_jobs:
                             logging.debug(f"Job found: {job}")
                             log_to_file(jobs_output_file, job)
-                        job_counter[url] += 1 #Count jobs found with script
+                        successful_jobs_counter[url] += len(matched_jobs)  # Count total jobs found
                 except Exception as e:
                     logging.exception(f"Error processing {url}: {e}")
                 finally:
                     pbar.update(1)
 
     # Log total jobs and errors
-    tqdm.write(f"\nTotal jobs found: {sum(job_counter.values())}")
-    tqdm.write(f"Total errors: {sum(error_counter.values())}")
+    total_jobs = sum(successful_jobs_counter.values())
+    total_errors = sum(error_urls_counter.values())
+
+    tqdm.write(f"\nTotal jobs found: {total_jobs}")
+    tqdm.write(f"Total errors: {total_errors}")
+    logging.info(f"Total jobs found: {total_jobs}")
+    logging.info(f"Total errors encountered: {total_errors}")
     logging.info(f"Job search completed. Results saved in '{jobs_output_file}'.")
     tqdm.write(f"\nJob search completed. Results saved in '{jobs_output_file}'.")
