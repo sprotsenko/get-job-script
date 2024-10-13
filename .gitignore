@@ -96,3 +96,6 @@ docs/_build/
 
 # Files for different platforms (Windows, Mac, Linux)
 Thumbs.db
+
+# Logging
+.logs
