@@ -1,11 +1,19 @@
-# my_project/fetch_jobs.py
-
 import requests
 from bs4 import BeautifulSoup
+import logging
 
 def fetch_jobs(careers_url, keywords):
-    """Fetch jobs from the identified careers page and search for jobs matching the keywords."""
+    """Fetch jobs from the identified careers page and search for jobs matching the keywords.
+
+    Args:
+        careers_url (str): The URL of the careers page to fetch jobs from.
+        keywords (list): A list of keywords to match against job titles.
+
+    Returns:
+        list: A list of matched job strings or an error message if the fetch fails.
+    """
     try:
+        logging.info(f"Fetching jobs from: {careers_url}")
         response = requests.get(careers_url, timeout=10)
         response.raise_for_status()
 
@@ -24,8 +32,14 @@ def fetch_jobs(careers_url, keywords):
                     job_url = careers_url.rstrip('/') + '/' + job_url.lstrip('/')
                 
                 matched_jobs.append(f"- {job.text.strip()} | {job_url}")
+                logging.info(f"Matched job: {job.text.strip()} | {job_url}")
         
+        if not matched_jobs:
+            logging.warning(f"No matching jobs found on: {careers_url}")
+
         return matched_jobs
 
     except requests.exceptions.RequestException as e:
+        error_message = f"Error fetching jobs from {careers_url}: {e}"
+        logging.error(error_message)
         return f"Error fetching jobs from {careers_url}: {e}"
